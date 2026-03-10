@@ -59,5 +59,3 @@ http://127.0.0.1:5000
 =======
 # enron-email-explorer
 AI-powered Enron Email Explorer using Flask and NLP
-
->>>>>>> e4816f61da2c329758ee1f65e0831e8e7f5b3def
