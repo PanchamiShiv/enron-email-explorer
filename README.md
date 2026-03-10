@@ -30,6 +30,10 @@ templates/ → HTML pages
 static/ → CSS and images  
 utils/ → helper functions  
 
+## Dataset
+
+The dataset used in this project was provided as part of a university course and is not included in this repository.
+
 ## Run the Project
 
 ###Install dependencies
@@ -49,7 +53,11 @@ python app.py
 Open browser
 
 http://127.0.0.1:5000
+
+
+
 =======
 # enron-email-explorer
 AI-powered Enron Email Explorer using Flask and NLP
+
 >>>>>>> e4816f61da2c329758ee1f65e0831e8e7f5b3def
