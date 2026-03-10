@@ -36,14 +36,16 @@ The dataset used in this project was provided as part of a university course and
 
 ## Run the Project
 
-###Install dependencies
+###
+Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
 
-###Run the application
+###
+Run the application
 
 ```bash
 python app.py
